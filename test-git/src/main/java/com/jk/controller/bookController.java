@@ -14,7 +14,8 @@ public class bookController {
     private String bookDate3;
     private String bookDate4;
 
-
+    private String bookDate5;
+    private String bookDate6;
 
 
 }
