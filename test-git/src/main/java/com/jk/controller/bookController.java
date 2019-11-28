@@ -16,7 +16,8 @@ public class bookController {
 
     private String bookDate5;
     private String bookDate6;
-
+    private String bookDate7;
+    private String bookDate8;
 
 
 
