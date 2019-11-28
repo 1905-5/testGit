@@ -7,16 +7,12 @@ public class bookController {
 
     private Integer bookPrice;
     private String bookDate;
-    private String bookDate1;
-    private String bookDate2;
-
 
     private String bookDate1;
     private String bookDate2;
 
-
-
-
+    private String bookDate3;
+    private String bookDate4;
 
 
 
