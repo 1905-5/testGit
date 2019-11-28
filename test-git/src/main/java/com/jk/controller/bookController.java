@@ -19,6 +19,8 @@ public class bookController {
     private String bookDate7;
     private String bookDate8;
 
+    private String bookDate9;
+    private String bookDate10;
 
 
 
